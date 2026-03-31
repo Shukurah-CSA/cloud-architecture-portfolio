@@ -1,2 +1,2 @@
 # cloud-architecture-portfolio
-A portfolio of cloud architecture designs demonstrating scalable AWS infrastructure patterns.
+Cloud architecture designs and AWS solution case studies.
